@@ -1,0 +1,25 @@
+{
+  "name": "bjtoken-info",
+  "version": "0.0.1",
+  "description": "bjtoken-info",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ybjgt/bjtoken-info.git"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "bjtoken-info",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ybjgt/bjtoken-info/issues"
+  },
+  "homepage": "https://github.com/ybjgt/bjtoken-info#readme",
+  "dependencies": {
+    "tea-datetime-generator": "^1.0.1"
+  }
+}
